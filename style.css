@@ -1,0 +1,12 @@
+body{
+  background: url('blackjack1.jpg');
+  background-size: cover;
+}
+button{
+  border-radius: 20%;
+  color: #141b42;
+  background-color:#f2bf40;
+  border: none;
+  box-shadow: 4px 5px #f1c55780;
+
+}
